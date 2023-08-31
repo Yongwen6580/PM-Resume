@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/PM-Resume/static/css/main.51eb2a0f.css",
+    "main.js": "/PM-Resume/static/js/main.bf2bacca.js",
+    "static/css/64.58703c21.chunk.css": "/PM-Resume/static/css/64.58703c21.chunk.css",
+    "static/js/64.a2201178.chunk.js": "/PM-Resume/static/js/64.a2201178.chunk.js",
+    "static/css/769.893ca5f0.chunk.css": "/PM-Resume/static/css/769.893ca5f0.chunk.css",
+    "static/js/769.7f15e30f.chunk.js": "/PM-Resume/static/js/769.7f15e30f.chunk.js",
+    "static/media/JPMorgan-Chase.png": "/PM-Resume/static/media/JPMorgan-Chase.c903f0382bc86b63ae55.png",
+    "static/media/Montserrat-Regular.ttf": "/PM-Resume/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/PM-Resume/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/aws.png": "/PM-Resume/static/media/aws.fe636390e284c941156a.png",
+    "static/media/citytech.png": "/PM-Resume/static/media/citytech.66597ef8f2a9ffbca0b6.png",
+    "static/media/manOnTable.svg": "/PM-Resume/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/wf.png": "/PM-Resume/static/media/wf.aaa35f622a3c99f3a062.png",
+    "static/media/contactMailDark.svg": "/PM-Resume/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/PM-Resume/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/SAP-Logo-2000.png": "/PM-Resume/static/media/SAP-Logo-2000.20097e4e0b387562ddbe.png",
+    "static/media/ms.jpeg": "/PM-Resume/static/media/ms.5482d7523e2c2f83c41b.jpeg",
+    "static/media/accenture_article_card.jpeg": "/PM-Resume/static/media/accenture_article_card.845a996dc8e5fd5c3d85.jpeg",
+    "static/media/au.jpeg": "/PM-Resume/static/media/au.b0fffe393fd6e2141863.jpeg",
+    "static/media/skill.svg": "/PM-Resume/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/PM-Resume/index.html",
+    "static/media/talksCardBack.svg": "/PM-Resume/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.51eb2a0f.css.map": "/PM-Resume/static/css/main.51eb2a0f.css.map",
+    "main.bf2bacca.js.map": "/PM-Resume/static/js/main.bf2bacca.js.map",
+    "64.58703c21.chunk.css.map": "/PM-Resume/static/css/64.58703c21.chunk.css.map",
+    "64.a2201178.chunk.js.map": "/PM-Resume/static/js/64.a2201178.chunk.js.map",
+    "769.893ca5f0.chunk.css.map": "/PM-Resume/static/css/769.893ca5f0.chunk.css.map",
+    "769.7f15e30f.chunk.js.map": "/PM-Resume/static/js/769.7f15e30f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51eb2a0f.css",
+    "static/js/main.bf2bacca.js"
+  ]
+}
